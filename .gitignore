@@ -1,0 +1,8 @@
+*.swp
+*.db
+*.lock
+*.generated
+*.log
+**/logs
+**/airflow.cfg
+**/__pycache__
