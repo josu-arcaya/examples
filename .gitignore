@@ -6,3 +6,4 @@
 **/logs
 **/airflow.cfg
 **/__pycache__
+uv.lock
